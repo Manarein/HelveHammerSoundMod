@@ -3,7 +3,7 @@
 
 A client side mod that allows a custom sound to be played for the helve hammer and adjusting of its volume. This mod only changes the sound for the helvehammer and nothing else.
 
-Only the 1.22 release candidates have been tested but all versions should work with this if it doesn't please leave a comment so I may fix it.
+Only the 1.22 release candidates have been tested but all versions should work with this if it doesn't please post an issue so I may fix it :)
 
  
 
