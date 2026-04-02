@@ -7,7 +7,7 @@ Only the 1.22 release candidates have been tested but all versions should work w
 
  
 
-This mod has a config file in the vintage story folder called HHSMConfig in this config you can set "CustomSound" to false for a lower thud sound, or if you so wish in the zip file of the mod you can change out the sound in
+This mod has a config file in the vintage story folder called HHSMConfig in this config you can set "CustomSound" to true for a lower thud sound, or if you so wish in the zip file of the mod you can change out the sound in
 
 "assets/sounds/anvil2" to have a custom sound. If you do this make your sound a .ogg file and name it hhanvil.ogg replacing the old sound.
 
