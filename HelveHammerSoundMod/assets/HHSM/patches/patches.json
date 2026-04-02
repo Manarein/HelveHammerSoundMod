@@ -1,0 +1,4 @@
+[
+  { "file": "game:sounds/soundconfig", "op": "addmerge", "path": "soundsets", "value": 
+}
+]

@@ -1,0 +1,16 @@
+{
+  "$schema": "https://moddbcdn.vintagestory.at/schema/modinfo.latest.json",
+  "type": "Code",
+  "modid": "helvehammersoundmod",
+  "name": "Helve Hammer Sound mod",
+  "authors": [
+    "Manarein"
+  ],
+  "description": "A mod to change the sound of the helve hammer.",
+  "version": "1.0.0",
+  "side": "Client",
+  "requiredOnServer": false,
+  "dependencies": {
+
+  }
+}
